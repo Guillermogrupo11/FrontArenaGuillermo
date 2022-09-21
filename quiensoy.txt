@@ -1,0 +1,22 @@
+acerca de mi:
+
+Actualmente tengo 41 años y estoy viviendo en la ciudad de Santa Fe, capital de la provincia de Santa Fe (Argentina). Hoy por hoy me encuentro realizando 2 distintos cursos a la vez, quedando en evidencia que soy muy capaz de organizar y distribuir mis tiempos en distintas tareas.
+
+En los distintos trabajos que he desarrollado, aprendí las distintas cualidades que poseo. Pero con lo que más me quedo es con los errores cometidos, porque de éstos se aprende mucho más. Ya que fueron impulsos para seguir creciendo y mejorando como persona.
+
+Las experiencias de vida me dejaron conocimientos sobre coordinación y convivencia de grupos de personas totalmente distintas unas de otras; tanto en edad como en nivel económico y en diversidad de creencias y pensamientos. En resumen, puedo realizar diversas tareas a la vez; y hasta coordinar y organizar un grupo de distintas personas.
+
+
+
+
+quien soy :
+
+
+Challenge Oracle ONE a través de la plataforma Alura LATAM: Front - End. Este tercer challenge consistió en realizar un Portafolio cumpliendo con una serie de requisitos y desde un archivo base en donde luego cada uno podía darle el formato y estilo deseado. Y donde era nuestro trabajo realizar todo el código de JavaScript para que la página funcionara según lo requerido.
+
+
+Desarrollar una aplicación web full stack, que mostrará: tus datos personales, estudios cursados, experiencia laboral, conocimiento de las
+tecnologías y lo que desees agregar. Es decir, ¡crear tu propio portfolio web! Esta aplicación deberá ser de arquitectura distribuida y contener un
+diseño de interfaz de usuario (front end) que muestre la información, una base de datos que almacene los datos antes mencionados y debe contar
+con las APIs necesarias para proveer a través de internet la información (back end). La idea es que, además de servirte para aplicar lo aprendido
+y que te evaluemos, puedas publicar el portfolio web y usarlo como carta de presentación en el mercado laboral
