@@ -1,0 +1,40 @@
+Entrega
+chukita edited this page 2 days ago · 5 revisions
+ Pages 1
+Find a Page…
+Entrega
+Clone this wiki locally
+https://github.com/chukita/pfinal.wiki.git
+INSTRUCCIONES
+
+Crear repo backend
+
+Subir BD a clevercloud y en application.propeties direccionar la bbdd. Al server.address y port no los considera.
+
+Subir a Heroku
+
+a- Renombrar el mvnw.bat porque genera conflicto. b. Asegurarse que la versión de JAVA aparezca en appicatio.properties.
+
+Un video que puede ayudar: https://www.youtube.com/watch?v=u-WkRMYhFb0
+
+Cambiar url en angular y traer de ahi
+
+Una vez que en Angular funciona todo, hacer NG BUILD
+
+Crear repo front con solo la carpeta dist
+
+Crear cuenta en Firebase
+
+Seguir los pasos del tutorial:
+
+https://medium.com/front-end-chile/c%C3%B3mo-alojar-tu-sitio-web-en-firebase-hosting-1a828641d7b3
+
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
